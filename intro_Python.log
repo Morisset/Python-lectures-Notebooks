@@ -1,0 +1,2827 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2014.3.7)  28 AUG 2014 11:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**intro_Python.tex
+(./intro_Python.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+
+(/home/morisset/Ureka/python/lib/python2.7/site-packages/sphinx/texinputs/sphin
+xhowto.cls
+
+LaTeX Warning: You have requested document class `/home/morisset/Ureka/python/l
+ib/python2.7/site-packages/sphinx/texinputs/sphinxhowto',
+               but the document class provides `sphinxhowto'.
+
+Document Class: sphinxhowto 2009/06/02 Document class (Sphinx HOWTO)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+   defining Unicode char U+00A0 (decimal 160)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+)
+(/home/morisset/Ureka/python/lib/python2.7/site-packages/sphinx/texinputs/fncyc
+hap.sty
+
+LaTeX Warning: You have requested package `/home/morisset/Ureka/python/lib/pyth
+on2.7/site-packages/sphinx/texinputs/fncychap',
+               but the package provides `fncychap'.
+
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip43
+\mylen=\skip44
+\myhi=\skip45
+\px=\skip46
+\py=\skip47
+\pyy=\skip48
+\pxx=\skip49
+\c@AlphaCnt=\count88
+\c@AlphaDecCnt=\count89
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count90
+\LTcapwidth=\dimen104
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count91
+\LT@rows=\count92
+\c@LT@tables=\count93
+\c@LT@chunks=\count94
+\LT@p@ftn=\toks16
+)
+(/home/morisset/Ureka/python/lib/python2.7/site-packages/sphinx/texinputs/sphin
+x.sty
+
+LaTeX Warning: You have requested package `/home/morisset/Ureka/python/lib/pyth
+on2.7/site-packages/sphinx/texinputs/sphinx',
+               but the package provides `sphinx'.
+
+Package: sphinx 2010/01/15 LaTeX package (Sphinx markup)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip54
+\f@ncyO@elh=\skip55
+\f@ncyO@erh=\skip56
+\f@ncyO@olh=\skip57
+\f@ncyO@orh=\skip58
+\f@ncyO@elf=\skip59
+\f@ncyO@erf=\skip60
+\f@ncyO@olf=\skip61
+\f@ncyO@orf=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box30
+\shadowsize=\dimen105
+\@Sbox=\box31
+\do@VerbBox=\toks17
+\the@fancyput=\toks18
+\this@fancyput=\toks19
+\EndVerbatimTokens=\toks20
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box32
+\beforetitleunit=\skip63
+\aftertitleunit=\skip64
+\ttl@plus=\dimen106
+\ttl@minus=\dimen107
+\ttl@toksa=\toks21
+\titlewidth=\dimen108
+\titlewidthlast=\dimen109
+\titlewidthfirst=\dimen110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks22
+\extratabsurround=\skip65
+\backup@length=\skip66
+)
+\TY@count=\count95
+\TY@linewidth=\dimen113
+\tymin=\dimen114
+\tymax=\dimen115
+\TY@tablewidth=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip67
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen117
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks24
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks25
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks26
+\multlinegap=\skip68
+\multlinetaggap=\skip69
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip70
+\fb@frw=\dimen126
+\fb@frh=\dimen127
+\FrameRule=\dimen128
+\FrameSep=\dimen129
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count108
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+\FV@CodeLineNo=\count109
+\FV@InFile=\read2
+\FV@TabBox=\box35
+\c@FancyVerbLine=\count110
+\FV@StepNumber=\count111
+\FV@OutFile=\write4
+) (/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box36
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box37
+\fn@width=\dimen130
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen131
+\WF@size=\dimen132
+\c@WF@wrappedlines=\count112
+\WF@box=\box38
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen133
+\Gin@req@width=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/plain/misc/pdfcolor.tex)
+\distancetoright=\skip71
+\py@argswidth=\skip72
+\py@noticelength=\skip73
+\lineblockindentation=\skip74
+\image@box=\box39
+\image@width=\dimen135
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen136
+\Hy@linkcounter=\count113
+\Hy@pagecounter=\count114
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count115
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count116
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen137
+\Fld@menulength=\count117
+\Field@Width=\dimen138
+\Fld@charsize=\dimen139
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count118
+\c@Item=\count119
+\c@Hfootnote=\count120
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count121
+\c@bookmark@seq@number=\count122
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip75
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty
+Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
+)
+\DUlineblockindent=\skip76
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2012/08/28 UCS: Unicode global data
+)
+\uc@secondtry=\count123
+\uc@combtoks=\toks30
+\uc@combtoksb=\toks31
+\uc@temptokena=\toks32
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3c reserve vertical space
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box40
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks37
+))
+\pgf@x=\dimen141
+\pgf@y=\dimen142
+\pgf@xa=\dimen143
+\pgf@ya=\dimen144
+\pgf@xb=\dimen145
+\pgf@yb=\dimen146
+\pgf@xc=\dimen147
+\pgf@yc=\dimen148
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count124
+\c@pgf@countb=\count125
+\c@pgf@countc=\count126
+\c@pgf@countd=\count127
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count128
+\pgfsyssoftpath@bigbuffer@items=\count129
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen149
+\pgfmath@count=\count130
+\pgfmath@box=\box41
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count131
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen150
+\pgf@picmaxx=\dimen151
+\pgf@picminy=\dimen152
+\pgf@picmaxy=\dimen153
+\pgf@pathminx=\dimen154
+\pgf@pathmaxx=\dimen155
+\pgf@pathminy=\dimen156
+\pgf@pathmaxy=\dimen157
+\pgf@xx=\dimen158
+\pgf@xy=\dimen159
+\pgf@yx=\dimen160
+\pgf@yy=\dimen161
+\pgf@zx=\dimen162
+\pgf@zy=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen164
+\pgf@path@lasty=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen166
+\pgf@shorten@start@additional=\dimen167
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box42
+\pgf@hbox=\box43
+\pgf@layerbox@main=\box44
+\pgf@picture@serial@count=\count132
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen168
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen169
+\pgf@pt@y=\dimen170
+\pgf@pt@temp=\dimen171
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen172
+\pgf@sys@shading@range@num=\count133
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box45
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box46
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen173
+\pgf@nodesepend=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen175
+\pgffor@skip=\dimen176
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count134
+\pgfplotmarksize=\dimen177
+)
+\tikz@lastx=\dimen178
+\tikz@lasty=\dimen179
+\tikz@lastxsaved=\dimen180
+\tikz@lastysaved=\dimen181
+\tikzleveldistance=\dimen182
+\tikzsiblingdistance=\dimen183
+\tikz@figbox=\box47
+\tikz@tempbox=\box48
+\tikztreelevel=\count135
+\tikznumberofchildren=\count136
+\tikznumberofcurrentchild=\count137
+\tikz@fig@count=\count138
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count139
+\pgfmatrixcurrentcolumn=\count140
+\pgf@matrix@numberofcolumns=\count141
+)
+\tikz@expandcount=\count142
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+\arrowsize=\dimen184
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v2.10 (rcs-revision 1.3)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v2.10 (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v2.10 (rcs-revision 1.3)
+))) (/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/03/09\ 1.8: mdframed
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2013/01/08 v4420 L3 Experimental bootstrap code
+)
+Package: l3names 2012/12/07 v4346 L3 Namespace for primitives
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count143
+)
+Package: expl3 2013/03/14 v4469 L3 Experimental code bundle wrapper
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2013/01/10 v4428 L3 Basic definitions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2013/02/03 v4458 L3 Argument expansion
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2013/01/08 v4415 L3 Token lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2013/01/12 v4434 L3 Sequences and stacks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2013/01/13 v4444 L3 Integers
+\c_max_int=\count144
+\l_tmpa_int=\count145
+\l_tmpb_int=\count146
+\g_tmpa_int=\count147
+\g_tmpb_int=\count148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2012/11/04 v4268 L3 Quarks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2013/02/13 v4459 L3 Control structures
+\g__prg_map_int=\count149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2013/01/08 v4414 L3 Comma separated lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2013/01/10 v4428 L3 Experimental token manipulation
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2013/01/09 v4423 L3 Property lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2013/01/08 v4412 L3 Messages
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2013/01/14 v4446 L3 File and I/O operations
+\l_iow_line_count_int=\count150
+\l__iow_target_count_int=\count151
+\l__iow_current_line_int=\count152
+\l__iow_current_word_int=\count153
+\l__iow_current_indentation_int=\count154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2013/01/13 v4444 L3 Dimensions and skips
+\c_zero_dim=\dimen185
+\c_max_dim=\dimen186
+\l_tmpa_dim=\dimen187
+\l_tmpb_dim=\dimen188
+\g_tmpa_dim=\dimen189
+\g_tmpb_dim=\dimen190
+\c_zero_skip=\skip77
+\c_max_skip=\skip78
+\l_tmpa_skip=\skip79
+\l_tmpb_skip=\skip80
+\g_tmpa_skip=\skip81
+\g_tmpb_skip=\skip82
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2013/02/24 v4461 L3 Experimental key-value interfaces
+\g__keyval_level_int=\count155
+\l_keys_choice_int=\count156
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2013/01/19 v4449 L3 Floating points
+\c__fp_leading_shift_int=\count157
+\c__fp_middle_shift_int=\count158
+\c__fp_trailing_shift_int=\count159
+\c__fp_big_leading_shift_int=\count160
+\c__fp_big_middle_shift_int=\count161
+\c__fp_big_trailing_shift_int=\count162
+\c__fp_Bigg_leading_shift_int=\count163
+\c__fp_Bigg_middle_shift_int=\count164
+\c__fp_Bigg_trailing_shift_int=\count165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2013/01/08 v4411 L3 Experimental boxes
+\c_empty_box=\box49
+\l_tmpa_box=\box50
+\l_tmpb_box=\box51
+\g_tmpa_box=\box52
+\g_tmpb_box=\box53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2012/09/09 v4212 L3 Coffin code layer
+\l__coffin_internal_box=\box54
+\l__coffin_internal_dim=\dimen191
+\l__coffin_offset_x_dim=\dimen192
+\l__coffin_offset_y_dim=\dimen193
+\l__coffin_x_dim=\dimen194
+\l__coffin_y_dim=\dimen195
+\l__coffin_x_prime_dim=\dimen196
+\l__coffin_y_prime_dim=\dimen197
+\c_empty_coffin=\box55
+\l__coffin_aligned_coffin=\box56
+\l__coffin_aligned_internal_coffin=\box57
+\l_tmpa_coffin=\box58
+\l_tmpb_coffin=\box59
+\l__coffin_display_coffin=\box60
+\l__coffin_display_coord_coffin=\box61
+\l__coffin_display_pole_coffin=\box62
+\l__coffin_display_offset_dim=\dimen198
+\l__coffin_display_x_dim=\dimen199
+\l__coffin_display_y_dim=\dimen200
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2012/08/29 v4156 L3 Experimental color support
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2012/08/03 v4049 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count166
+\g__cctab_stack_int=\count167
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3candidates.sty
+Package: l3candidates 2013/03/14 v4468 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen201
+Normal \dimen register pool exhausted, switching to extended pool.
+\l__box_bottom_dim=\dimen256
+\l__box_left_dim=\dimen257
+\l__box_right_dim=\dimen258
+\l__box_top_new_dim=\dimen259
+\l__box_bottom_new_dim=\dimen260
+\l__box_left_new_dim=\dimen261
+\l__box_right_new_dim=\dimen262
+\l__box_internal_box=\box63
+\l__coffin_bounding_shift_dim=\dimen263
+\l__coffin_left_corner_dim=\dimen264
+\l__coffin_right_corner_dim=\dimen265
+\l__coffin_bottom_corner_dim=\dimen266
+\l__coffin_top_corner_dim=\dimen267
+\l__coffin_scaled_total_height_dim=\dimen268
+\l__coffin_scaled_width_dim=\dimen269
+))
+Package: xparse 2013/03/12 v4467 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count168
+\l__xparse_m_args_int=\count169
+\l__xparse_mandatory_args_int=\count170
+\l__xparse_processor_int=\count171
+\l__xparse_v_nesting_int=\count172
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count173
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+\c@abspage=\count174
+Package zref Info: New property: abspage on input line 62.
+)
+\mdf@templength=\skip83
+\c@mdf@globalstyle@cnt=\count175
+\mdf@skipabove@length=\skip84
+\mdf@skipbelow@length=\skip85
+\mdf@leftmargin@length=\skip86
+\mdf@rightmargin@length=\skip87
+\mdf@innerleftmargin@length=\skip88
+\mdf@innerrightmargin@length=\skip89
+\mdf@innertopmargin@length=\skip90
+\mdf@innerbottommargin@length=\skip91
+\mdf@splittopskip@length=\skip92
+\mdf@splitbottomskip@length=\skip93
+\mdf@outermargin@length=\skip94
+\mdf@innermargin@length=\skip95
+\mdf@linewidth@length=\skip96
+\mdf@innerlinewidth@length=\skip97
+\mdf@middlelinewidth@length=\skip98
+\mdf@outerlinewidth@length=\skip99
+\mdf@roundcorner@length=\skip100
+\mdf@footenotedistance@length=\skip101
+\mdf@userdefinedwidth@length=\skip102
+\mdf@frametitleaboveskip@length=\skip103
+\mdf@frametitlebelowskip@length=\skip104
+\mdf@frametitlerulewidth@length=\skip105
+\mdf@frametitleleftmargin@length=\skip106
+\mdf@frametitlerightmargin@length=\skip107
+\mdf@shadowsize@length=\skip108
+\mdf@extratopheight@length=\skip109
+\mdf@subtitleabovelinewidth@length=\skip110
+\mdf@subtitlebelowlinewidth@length=\skip111
+\mdf@subtitleaboveskip@length=\skip112
+\mdf@subtitlebelowskip@length=\skip113
+\mdf@subtitleinneraboveskip@length=\skip114
+\mdf@subtitleinnerbelowskip@length=\skip115
+\mdf@subsubtitleabovelinewidth@length=\skip116
+\mdf@subsubtitlebelowlinewidth@length=\skip117
+\mdf@subsubtitleaboveskip@length=\skip118
+\mdf@subsubtitlebelowskip@length=\skip119
+\mdf@subsubtitleinneraboveskip@length=\skip120
+\mdf@subsubtitleinnerbelowskip@length=\skip121
+\mdf@frametitlebox=\box64
+\mdf@footnotebox=\box65
+\mdf@splitbox@one=\box66
+\mdf@splitbox@two=\box67
+\mdf@splitbox@save=\box68
+\mdfsplitboxwidth=\skip122
+\mdfsplitboxtotalwidth=\skip123
+\mdfsplitboxheight=\skip124
+\mdfsplitboxdepth=\skip125
+\mdfsplitboxtotalheight=\skip126
+\mdfframetitleboxwidth=\skip127
+\mdfframetitleboxtotalwidth=\skip128
+\mdfframetitleboxheight=\skip129
+\mdfframetitleboxdepth=\skip130
+\mdfframetitleboxtotalheight=\skip131
+\mdffootnoteboxwidth=\skip132
+\mdffootnoteboxtotalwidth=\skip133
+\mdffootnoteboxheight=\skip134
+\mdffootnoteboxdepth=\skip135
+\mdffootnoteboxtotalheight=\skip136
+\mdftotallinewidth=\skip137
+\mdfboundingboxwidth=\skip138
+\mdfboundingboxtotalwidth=\skip139
+\mdfboundingboxheight=\skip140
+\mdfboundingboxdepth=\skip141
+\mdfboundingboxtotalheight=\skip142
+\mdf@freevspace@length=\skip143
+\mdf@horizontalwidthofbox@length=\skip144
+\mdf@verticalmarginwhole@length=\skip145
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newmdtheoremenv with arg. spec. 'O{} m o m o ' on
+. line 548.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \mdtheorem with arg. spec. ' O{} m o m o ' on line
+. 639.
+.................................................
+
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+File: md-frame-1.mdf 2013/03/09\ 1.8: md-frame-1
+)
+\mdf@envdepth=\count176
+\c@mdf@env@i=\count177
+\c@mdf@env@ii=\count178
+\c@mdf@zref@counter=\count179
+Package zref Info: New property: mdf@pagevalue on input line 840.
+\mdf@horizontalspaceofbox=\skip146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks43
+\XKV@tempa@toks=\toks44
+\XKV@depth=\count180
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box69
+)
+\tc@llx=\dimen270
+\tc@lly=\dimen271
+\tc@urx=\dimen272
+\tc@ury=\dimen273
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen274
+\adjbox@Height=\dimen275
+\adjbox@Depth=\dimen276
+\adjbox@Totalheight=\dimen277
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count181
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box70
+\sift@deathcycles=\count182
+\@vwid@loff=\dimen278
+\@vwid@roff=\dimen279
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grffile.sty
+Package: grffile 2012/04/05 v1.16 Extended file name support for graphics (HO)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count183
+\lst@gtempboxa=\box71
+\lst@token=\toks45
+\lst@length=\count184
+\lst@currlwidth=\dimen280
+\lst@column=\count185
+\lst@pos=\count186
+\lst@lostspace=\dimen281
+\lst@width=\dimen282
+\lst@newlines=\count187
+\lst@lineno=\count188
+\lst@maxwidth=\dimen283
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count189
+\lst@skipnumbers=\count190
+\lst@framebox=\box72
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+\@indexfile=\write6
+\openout6 = `intro_Python.idx'.
+
+
+Writing index file intro_Python.idx
+(./intro_Python.aux)
+\openout1 = `intro_Python.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 221.
+LaTeX Font Info:    ... okay on input line 221.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 221.
+LaTeX Font Info:    ... okay on input line 221.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 221.
+LaTeX Font Info:    ... okay on input line 221.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 221.
+LaTeX Font Info:    ... okay on input line 221.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 221.
+LaTeX Font Info:    ... okay on input line 221.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 221.
+LaTeX Font Info:    ... okay on input line 221.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 221.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 221.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 221.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 221.
+LaTeX Font Info:    ... okay on input line 221.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 221.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen284
+\scratchbox=\box73
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen285
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks47
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box74
+Package hyperref Info: Link coloring ON on input line 221.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count197
+)
+LaTeX Info: Redefining \ref on input line 221.
+LaTeX Info: Redefining \pageref on input line 221.
+LaTeX Info: Redefining \nameref on input line 221.
+
+(./intro_Python.out) (./intro_Python.out)
+\@outlinefile=\write7
+\openout7 = `intro_Python.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+
+Package ucs Warning: ***************************
+(ucs)                You seem to have loaded inputencoding utf8
+(ucs)                (LaTeX kernel UTF-8) instead of utf8x (ucs.sty UTF-8).
+(ucs)                Probably you are compiling a document written for a
+(ucs)                pre-august-2004 ucs.sty.
+(ucs)                ***************************
+(ucs)                Please use \usepackage[utf8x]{inputenc} instead of
+(ucs)                \usepackage[utf8]{inputenc}.
+(ucs)                ***************************
+(ucs)                If you should really want to use ucs.sty and kernel's
+(ucs)                utf8.def together, use \usepackage[utf8x,utf8]{inputenc}
+(ucs)                to disable compatibility mode
+(ucs)                ***************************
+(ucs)                Activating compatibility mode.
+(ucs)                ***************************
+(ucs)                 on input line 221.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)
+ABD: EveryShipout initializing macros
+\c@lstlisting=\count198
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+phv on input line 225.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 225.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 225.
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 225.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 225.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 225.
+LaTeX Font Info:    Try loading font information for U+msa on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 231.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 231.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\T1/ptm/m/n/20.74 Moris-set at IA-UNAM. More in-for-ma-tions at:
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 231.
+
+Package xcolor Warning: Incompatible color definition on input line 231.
+
+
+Package xcolor Warning: Incompatible color definition on input line 231.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 231.
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 239.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 241.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 264.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 281.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 304.
+ [1
+
+{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 321.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 344.
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+[]\T1/ptm/m/n/20.74 The art of writ-ing good python code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+\T1/ptm/m/n/20.74 is de-scribed in the fol-low-ing doc-u-ment:
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 353.
+
+
+Package xcolor Warning: Incompatible color definition on input line 353.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 363.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 384.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 407.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 424.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 448.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 465.
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9.5> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 468.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 489.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 506.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 530.
+[2]
+
+Package xcolor Warning: Incompatible color definition on input line 543.
+
+
+Package xcolor Warning: Incompatible color definition on input line 543.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 552.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 572.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 598.
+
+Overfull \hbox (442.65936pt too wide) in paragraph at lines 600--600
+[]\T1/pcr/m/n/20.74 ' This is a large comment\non multiple lines\nending as it 
+started\n' 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 606.
+
+
+Package xcolor Warning: Incompatible color definition on input line 606.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 616.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 639.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 656.
+
+Overfull \hbox (184.72304pt too wide) in paragraph at lines 659--659
+[][]\T1/pcr/m/n/9.5 2[] []/[] []3[] []\T1/pcr/m/sl/9.5 # Take care, this will r
+esult in an integer, may not be what you expect. This changes in Python 3. [][]
+ 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 679.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 696.
+
+Overfull \hbox (236.02301pt too wide) in paragraph at lines 699--699
+[][]\T1/pcr/m/n/9.5 2.[] []/[] []3[] []\T1/pcr/m/sl/9.5 # This is the way exact
+ division is performed, adding a dot to promote one of the two integer into a f
+loat.[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 719.
+[3]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 737.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 760.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 777.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 800.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 817.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 840.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 857.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 880.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 897.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 920.
+
+
+Package xcolor Warning: Incompatible color definition on input line 928.
+
+
+Package xcolor Warning: Incompatible color definition on input line 928.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 937.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 957.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 980.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 997.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1020.
+[4]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1037.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1060.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1077.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1100.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1117.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1140.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1148.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1148.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1159.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1182.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1199.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1220.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1243.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1260.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1280.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1303.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1320.
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9.5> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 1323.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1343.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1360.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1383.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1401.
+[5]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1424.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1443.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1466.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1474.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1474.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1483.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1505.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1523.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1545.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1563.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1585.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1603.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1625.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1643.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1669.
+
+Overfull \hbox (119.11536pt too wide) in paragraph at lines 1671--1671
+[]\T1/pcr/m/n/20.74 a = 7.500000, b = tralala, c = 8.900000e-33 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1687.
+
+Overfull \hbox (304.42297pt too wide) in paragraph at lines 1690--1690
+[][]\T1/pcr/m/sl/9.5 # The new way is using the format() method of the string o
+bject, and {} to define which value to print and using which format.[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1712.
+
+Overfull \hbox (255.99936pt too wide) in paragraph at lines 1716--1716
+[]\T1/pcr/m/n/20.74 a = 7.500000, b = tralala             , c =  8.900e-33[] 
+ []
+
+
+Overfull \hbox (152.14807pt too wide) in paragraph at lines 1723--1724
+[]\T1/ptm/m/n/20.74 Much more on this here: https://docs.python.org/2/tutorial/
+inputoutput.html 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 1724.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1724.
+
+[6]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1733.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1753.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1776.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1794.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1817.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1834.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1857.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1874.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1897.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1914.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1937.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1954.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1974.
+
+Overfull \hbox (196.12303pt too wide) in paragraph at lines 1977--1977
+[]\T1/pcr/m/n/9.5 a[].[]split([]'[][].[][]'[]) []\T1/pcr/m/sl/9.5 # Here we def
+ine the character used to split. The default is space (any comninaison of space
+s)[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1997.
+
+Overfull \hbox (243.55536pt too wide) in paragraph at lines 1999--1999
+[]\T1/pcr/m/n/20.74 ['This is a string', '   With various sentences', ''] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2014.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2040.
+
+Package xcolor Warning: Incompatible color definition on input line 2051.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2051.
+
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 2052.
+
+Package xcolor Warning: Incompatible color definition on input line 2052.
+
+[7]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2061.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2081.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2104.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2121.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2144.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2161.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2184.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2201.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2224.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2241.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2264.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2281.
+
+Overfull \hbox (173.32304pt too wide) in paragraph at lines 2284--2284
+[]\T1/pcr/m/n/9.5 L []=[] L []+[] [[]'[][]black[][]'[], []'[][]white[][]'[]] []
+\T1/pcr/m/sl/9.5 # addition symbol is used to agregate values to a list. See be
+low other way.[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2301.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2323.
+
+Overfull \hbox (106.67136pt too wide) in paragraph at lines 2325--2325
+[]\T1/pcr/m/n/20.74 ['red', 'green', 'blue', 'black', 'white'] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2341.
+
+Overfull \hbox (116.32307pt too wide) in paragraph at lines 2344--2344
+[]\T1/pcr/m/n/9.5 L[[]1[]:[]3[]] []\T1/pcr/m/sl/9.5 # L[start:stop] : elements 
+if index i, where start <= i < stop !! stop not included !![][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2364.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2381.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2404.
+[8]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2421.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2444.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2461.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2484.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2501.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2525.
+
+Overfull \hbox (131.55936pt too wide) in paragraph at lines 2527--2527
+[]\T1/pcr/m/n/20.74 ['red', 'green', 'yellow', 'black', 'white'] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2542.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2566.
+
+Overfull \hbox (231.11136pt too wide) in paragraph at lines 2568--2568
+[]\T1/pcr/m/n/20.74 ['red', 'green', 'yellow', 'black', 'white', 'pink'] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2583.
+
+Overfull \hbox (25.64555pt too wide) in paragraph at lines 2586--2586
+[]\T1/pcr/m/n/9.5 L[].[]insert([]2[], []'[][]blue[][]'[])    []\T1/pcr/m/sl/9.5
+ #L.insert(index, object) -- insert object before index[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2607.
+
+Overfull \hbox (330.66336pt too wide) in paragraph at lines 2609--2609
+[]\T1/pcr/m/n/20.74 ['red', 'green', 'blue', 'yellow', 'black', 'white', 'pink'
+] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2624.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2648.
+[9]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2673.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2697.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2722.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2746.
+
+Overfull \hbox (392.88336pt too wide) in paragraph at lines 2748--2748
+[]\T1/pcr/m/n/20.74 ['purple', 'magenta', 'pink', 'white', 'black', 'yellow', '
+blue', 
+ []
+
+
+Overfull \hbox (293.33136pt too wide) in paragraph at lines 2750--2750
+[]\T1/pcr/m/n/20.74 ['purple', 'magenta', 'pink', 'white', 'black', 'yellow'][]
+ 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2766.
+
+Overfull \hbox (401.32501pt too wide) in paragraph at lines 2791--2791
+[]        \T1/pcr/m/n/20.74 ---------------------------------------------------
+-----------[] 
+ []
+
+
+Overfull \hbox (376.43701pt too wide) in paragraph at lines 2793--2793
+[]    \T1/pcr/m/n/20.74 IndexError                                Traceback (mo
+st recent[] 
+ []
+
+
+Overfull \hbox (189.77701pt too wide) in paragraph at lines 2798--2798
+[]        \T1/pcr/m/n/20.74 <ipython-input-67-c16babb9288f> in <module>()[] 
+ []
+
+
+Overfull \hbox (115.113pt too wide) in paragraph at lines 2799--2799
+[]    \T1/pcr/m/n/20.74 ----> 1 L[25] # Out of range leads to error[] 
+ []
+
+[10]
+Overfull \hbox (65.337pt too wide) in paragraph at lines 2804--2804
+[]        \T1/pcr/m/n/20.74 IndexError: list index out of range[] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2820.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2843.
+
+Overfull \hbox (76.4231pt too wide) in paragraph at lines 2847--2847
+[]\T1/pcr/m/n/9.5 L[].[]sort() []\T1/pcr/m/sl/9.5 # One can use TAB to look for
+ the methods (functions that apply to an object)[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2865.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2886.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2906.
+
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 2909--2909
+[][]\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 (a[]*[]b) []\T1/pcr/m/sl/9.5 # Does 
+NOT multiply element by element. Numpy will do this job.[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2926.
+
+Overfull \hbox (270.22299pt too wide) in paragraph at lines 2929--2929
+[]\T1/pcr/m/n/9.5 L []=[] []range[]([]4[]) []\T1/pcr/m/sl/9.5 # Create a list. 
+Notice the parameter is the number of elements, not the last one. The end point
+ is omited.[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2947.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2968.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2989.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3012.
+
+Overfull \hbox (122.02307pt too wide) in paragraph at lines 3015--3015
+[]\T1/pcr/m/n/9.5 a []=[] [[[]1[], []2[], []3[]], [[]10[], []20[], []30[]], [[]
+100[], []200[], []300[]]] []\T1/pcr/m/sl/9.5 # Not a 2D table, but rather a tab
+le of tables.[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3035.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3055.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3076.
+[11]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3097.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3117.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3128.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3137.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3161.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3178.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3202.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3210.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3227.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3250.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3267.
+
+Overfull \hbox (401.32501pt too wide) in paragraph at lines 3292--3292
+[]        \T1/pcr/m/n/20.74 ---------------------------------------------------
+-----------[] 
+ []
+
+
+Overfull \hbox (376.43701pt too wide) in paragraph at lines 3294--3294
+[]    \T1/pcr/m/n/20.74 TypeError                                 Traceback (mo
+st recent[] 
+ []
+
+
+Overfull \hbox (189.77701pt too wide) in paragraph at lines 3299--3299
+[]        \T1/pcr/m/n/20.74 <ipython-input-71-6dd68cc28786> in <module>()[] 
+ []
+
+[12]
+Overfull \hbox (351.54901pt too wide) in paragraph at lines 3305--3305
+[]        \T1/pcr/m/n/20.74 TypeError: 'tuple' object does not support item ass
+ignment[] 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 3312.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3322.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3342.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3365.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3382.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3405.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3422.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3442.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3464.
+
+Overfull \hbox (156.44736pt too wide) in paragraph at lines 3466--3466
+[]\T1/pcr/m/n/20.74 {'Julio': 16, 'Christophe': 12, 'Antonio': 15} 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3482.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3504.
+
+Overfull \hbox (305.77536pt too wide) in paragraph at lines 3506--3506
+[]\T1/pcr/m/n/20.74 [1, 1.2, 2, 2, 3, 4, 5, 'A', 'G', 'a', 'b', 'e', 'g', 't'] 
+
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3522.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3545.
+
+Package xcolor Warning: Incompatible color definition on input line 3554.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3554.
+
+[13]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3563.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3585.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3605.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3630.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3654.
+
+Overfull \hbox (127.72307pt too wide) in paragraph at lines 3669--3669
+[][]\T1/pcr/m/sl/9.5 # Print the keys and values from the dictionary. As it is 
+not ordered , they come as they want.[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3690.
+[14]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3717.
+
+Overfull \hbox (19.42313pt too wide) in paragraph at lines 3721--3721
+[]    []\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 ([]'[][]Element: {0:3s}  Atomic 
+Mass: {1}[][]'[][].[]format(key, ATOMIC_MASS[key]))[] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3740.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3758--3762
+\T1/ptm/m/n/20.74 https://wiki.python.org/moin/HowTo/Sorting or here:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3758--3762
+\T1/ptm/m/n/20.74 http://www.pythoncentral.io/how-to-sort-a-list-tuple-or-
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3770.
+
+Overfull \hbox (53.62311pt too wide) in paragraph at lines 3773--3773
+[][]\T1/pcr/b/n/9.5 for[] \T1/pcr/m/n/9.5 elem []\T1/pcr/b/n/9.5 in[] []\T1/pcr
+/m/n/9.5 sorted[](ATOMIC_MASS, key []=[] ATOMIC_MASS[].[]get): []\T1/pcr/m/sl/9
+.5 # sorting using the values[][] 
+ []
+
+
+Overfull \hbox (30.82312pt too wide) in paragraph at lines 3774--3774
+[]    []\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 ([]'[][]Element: {0:3s}  Atomic 
+Mass: {1}[][]'[][].[]format(elem, ATOMIC_MASS[elem]))[] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3793.
+[15]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3820.
+
+Overfull \hbox (190.42303pt too wide) in paragraph at lines 3823--3823
+[][]\T1/pcr/b/n/9.5 for[] \T1/pcr/m/n/9.5 idx, elem []\T1/pcr/b/n/9.5 in[] []\T
+1/pcr/m/n/9.5 enumerate[]([]sorted[](ATOMIC_MASS, key []=[] ATOMIC_MASS[].[]get
+)): []\T1/pcr/m/sl/9.5 # adding an index that run from 0.[][] 
+ []
+
+
+Overfull \hbox (133.42307pt too wide) in paragraph at lines 3824--3824
+[]    []\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 ([]'[][]{0:2} Element: {1:2s}  A
+tomic Mass: {2:4.1f}[][]'[][].[]format(idx[]+[][]1[], elem, ATOMIC_MASS[elem]))
+[] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3843.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3870.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3894.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3915.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3942.
+[16]
+
+Package xcolor Warning: Incompatible color definition on input line 3961.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3961.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3970.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 3995.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4013.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4037.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4055.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4079.
+
+Overfull \hbox (380.43936pt too wide) in paragraph at lines 4081--4081
+[]\T1/pcr/m/n/20.74 {'squared_3': 9, 'squared_2': 4, 'squared_1': 1, 'squared_0
+': 0, 
+ []
+
+
+Overfull \hbox (417.77136pt too wide) in paragraph at lines 4082--4082
+[]\T1/pcr/m/n/20.74 'squared_7': 49, 'squared_6': 36, 'squared_5': 25, 'squared
+_4': 16,[] 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 4090.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4090.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4099.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4123.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4141.
+[17]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4173.
+
+Overfull \hbox (106.67136pt too wide) in paragraph at lines 4175--4175
+[]\T1/pcr/m/n/20.74 Help on function func2 in module __main__: 
+ []
+
+
+Overfull \hbox (32.00735pt too wide) in paragraph at lines 4178--4178
+[]    \T1/pcr/m/n/20.74 Return the cube of the parameter[] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4197.
+
+Overfull \hbox (70.7231pt too wide) in paragraph at lines 4202--4202
+[][]    \T1/pcr/m/sl/9.5 This function has 5 arguments, 2 of them have default 
+values (then not mandatory)[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4225.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4243.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4266.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4284.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4307.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4325.
+
+Overfull \hbox (227.10901pt too wide) in paragraph at lines 4351--4351
+[]          \T1/pcr/m/n/20.74 File "<ipython-input-71-a2bc66692446>", line 1[] 
+
+ []
+
+
+Overfull \hbox (102.669pt too wide) in paragraph at lines 4352--4352
+[]        \T1/pcr/m/n/20.74 G = func3(3, 4, 5, a=10, 100) # ERROR![] 
+ []
+
+
+Overfull \hbox (152.445pt too wide) in paragraph at lines 4353--4353
+[]    \T1/pcr/m/n/20.74 SyntaxError: non-keyword arg after keyword arg[] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4370.
+[18]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4393.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4411.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4434.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4452.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4476.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4493.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4515.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4524.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4539.
+[19]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4585.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4605.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4614.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4641.
+[20]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4660.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4686.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4695.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4704.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4730.
+
+Overfull \hbox (401.32501pt too wide) in paragraph at lines 4740--4740
+[]        \T1/pcr/m/n/20.74 ---------------------------------------------------
+-----------[] 
+ []
+
+
+Overfull \hbox (376.43701pt too wide) in paragraph at lines 4742--4742
+[]    \T1/pcr/m/n/20.74 NameError                                 Traceback (mo
+st recent[] 
+ []
+
+
+Overfull \hbox (189.77701pt too wide) in paragraph at lines 4747--4747
+[]        \T1/pcr/m/n/20.74 <ipython-input-44-f60224a7598e> in <module>()[] 
+ []
+
+
+Overfull \hbox (65.337pt too wide) in paragraph at lines 4755--4755
+[]        \T1/pcr/m/n/20.74 NameError: name 'g2' is not defined[] 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 4762.
+
+[21]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4771.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4798.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4808.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4817.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4845.
+
+Overfull \hbox (455.10336pt too wide) in paragraph at lines 4849--4849
+[]\T1/pcr/m/n/20.74 93326215443944152681699238856266700490715968264381621468592
+96389521759[] 
+ []
+
+
+Overfull \hbox (455.10336pt too wide) in paragraph at lines 4850--4850
+[]\T1/pcr/m/n/20.74 99932299156089414639761565182862536979208272237582511852109
+16864000000[] 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 4858.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4858.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4867.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4896.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4914.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4935.
+
+Overfull \hbox (14.06511pt too wide) in paragraph at lines 4938--4938
+[][]\T1/pcr/b/n/9.5 import[] []ex1[] []\T1/pcr/m/sl/9.5 #this imports a file na
+med ex1.py from the current directory or [][] 
+ []
+
+[22]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4959.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 4977.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5000.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5018.
+
+Overfull \hbox (190.42303pt too wide) in paragraph at lines 5021--5021
+[][]\T1/pcr/b/n/9.5 from[] []ex1[] []import[] []\T1/pcr/m/n/9.5 *[] []\T1/pcr/m
+/sl/9.5 # DO NOT DO THIS! Very hard to know where f1 is comming from (debuging,
+ names conflicts)[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5041.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5059.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5082.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5100.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5124.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5141.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5163.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5181.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5203.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5221.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5245.
+
+Overfull \hbox (81.78336pt too wide) in paragraph at lines 5247--5247
+[]\T1/pcr/m/n/20.74 <IPython.core.display.HTML at 0xa00450c> 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5262.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5282.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5304.
+
+Overfull \hbox (69.33936pt too wide) in paragraph at lines 5306--5306
+[]\T1/pcr/m/n/20.74 Help on function f1 in module __main__: 
+ []
+
+
+Overfull \hbox (231.11136pt too wide) in paragraph at lines 5309--5309
+[]    \T1/pcr/m/n/20.74 This is an exmaple of a function, returning x**2[] 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 5318.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5318.
+
+[23]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5330.
+
+Overfull \hbox (401.32501pt too wide) in paragraph at lines 5355--5355
+[]        \T1/pcr/m/n/20.74 ---------------------------------------------------
+-----------[] 
+ []
+
+
+Overfull \hbox (376.43701pt too wide) in paragraph at lines 5357--5357
+[]    \T1/pcr/m/n/20.74 NameError                                 Traceback (mo
+st recent[] 
+ []
+
+
+Overfull \hbox (177.33301pt too wide) in paragraph at lines 5362--5362
+[]        \T1/pcr/m/n/20.74 <ipython-input-1-08710d8e7a42> in <module>()[] 
+ []
+
+
+Overfull \hbox (77.781pt too wide) in paragraph at lines 5368--5368
+[]        \T1/pcr/m/n/20.74 NameError: name 'sin' is not defined[] 
+ []
+
+[24]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5384.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5407.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5425.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5445.
+
+Overfull \hbox (133.42307pt too wide) in paragraph at lines 5448--5448
+[][]\T1/pcr/m/sl/9.5 # We can import all the elements of the library in the cur
+rent domain name (NOT A GOOD IDEA!!!):[][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5470.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5487.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5510.
+
+Overfull \hbox (417.77136pt too wide) in paragraph at lines 5512--5512
+[]\T1/pcr/m/n/20.74 ['__doc__', '__file__', '__name__', '__package__', 'acos', 
+'acosh', 
+ []
+
+
+Overfull \hbox (442.65936pt too wide) in paragraph at lines 5513--5513
+[]\T1/pcr/m/n/20.74 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'ceil', 'copysig
+n', 'cos',[] 
+ []
+
+
+Overfull \hbox (355.55136pt too wide) in paragraph at lines 5514--5514
+[]\T1/pcr/m/n/20.74 'cosh', 'degrees', 'e', 'erf', 'erfc', 'exp', 'expm1', 'fab
+s',[] 
+ []
+
+
+Overfull \hbox (380.43936pt too wide) in paragraph at lines 5515--5515
+[]\T1/pcr/m/n/20.74 'factorial', 'floor', 'fmod', 'frexp', 'fsum', 'gamma', 'hy
+pot',[] 
+ []
+
+
+Overfull \hbox (442.65936pt too wide) in paragraph at lines 5516--5516
+[]\T1/pcr/m/n/20.74 'isinf', 'isnan', 'ldexp', 'lgamma', 'log', 'log10', 'log1p
+', 'modf',[] 
+ []
+
+
+Overfull \hbox (455.10336pt too wide) in paragraph at lines 5517--5517
+[]\T1/pcr/m/n/20.74 'pi', 'pow', 'radians', 'sin', 'sinh', 'sqrt', 'tan', 'tanh
+', 'trunc'][] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5533.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5556.
+
+Overfull \hbox (144.00336pt too wide) in paragraph at lines 5558--5558
+[]\T1/pcr/m/n/20.74 Help on built-in function sin in module math: 
+ []
+
+
+Overfull \hbox (168.89136pt too wide) in paragraph at lines 5563--5563
+[]    \T1/pcr/m/n/20.74 Return the sine of x (measured in radians).[] 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5580.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5602.
+
+Overfull \hbox (144.00336pt too wide) in paragraph at lines 5604--5604
+[]\T1/pcr/m/n/20.74 Help on built-in function log in module math: 
+ []
+
+
+Overfull \hbox (181.33536pt too wide) in paragraph at lines 5609--5609
+[]    \T1/pcr/m/n/20.74 Return the logarithm of x to the given base.[] 
+ []
+
+
+Overfull \hbox (442.65936pt too wide) in paragraph at lines 5610--5610
+[]    \T1/pcr/m/n/20.74 If the base not specified, returns the natural logarith
+m (base e)[] 
+ []
+
+[25]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5628.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5650.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5668.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5688.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5710.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5728.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5748.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5771.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5788.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5811.
+
+Overfull \hbox (417.77136pt too wide) in paragraph at lines 5813--5813
+[]\T1/pcr/m/n/20.74 <module 'math' from '/home/puma/Ureka/variants/common/lib/p
+ython2.7 
+ []
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5829.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5852.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5869.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5889.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5912.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 5929.
+
+Overfull \hbox (401.32501pt too wide) in paragraph at lines 5955--5955
+[]        \T1/pcr/m/n/20.74 ---------------------------------------------------
+-----------[] 
+ []
+
+
+Overfull \hbox (376.43701pt too wide) in paragraph at lines 5957--5957
+[]    \T1/pcr/m/n/20.74 AttributeError                            Traceback (mo
+st recent[] 
+ []
+
+[26]
+Overfull \hbox (189.77701pt too wide) in paragraph at lines 5962--5962
+[]        \T1/pcr/m/n/20.74 <ipython-input-19-70a02d6227fb> in <module>()[] 
+ []
+
+
+Overfull \hbox (251.99701pt too wide) in paragraph at lines 5969--5969
+[]        \T1/pcr/m/n/20.74 AttributeError: 'int' object has no attribute 'pi'[
+] 
+ []
+
+No file intro_Python.ind.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5983.
+[27]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 5983.
+ (./intro_Python.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 5983.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 5983.
+
+Package rerunfilecheck Info: File `intro_Python.out' has not changed.
+(rerunfilecheck)             Checksum: A92C221262581E66066FA4CA503D76E2;1818.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 5983.
+ ) 
+Here is how much of TeX's memory you used:
+ 26652 strings out of 495063
+ 467295 string characters out of 3182195
+ 612987 words of memory out of 3000000
+ 29210 multiletter control sequences out of 15000+200000
+ 52011 words of font info for 62 fonts, out of 3000000 for 9000
+ 15 hyphenation exceptions out of 8191
+ 56i,10n,78p,931b,976s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
+rw/courier/ucrro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
+uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on intro_Python.pdf (27 pages, 142753 bytes).
+PDF statistics:
+ 272 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+

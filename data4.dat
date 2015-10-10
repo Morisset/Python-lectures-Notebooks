@@ -1,0 +1,16 @@
+#  Line      Iobs    lambda  relat_error Obs_code
+H  1  4861A 1.00000    4861. 0.08000  Anabel                               
+H  1  6563A 2.8667     6563. 0.19467  Anabel                               
+H  1  4340A 0.4933     4340. 0.03307  Anabel                               
+H  1  4102A 0.2907     4102. 0.02229  Anabel                               
+H  1  3970A 0.1800     3970. 0.01253  Anabel                               
+N  2  6584A 2.1681     6584. 0.08686  Anabel                               
+N  2 121.7m 0.00446 1217000. 0.20000  Liu                                  
+O  1  6300A 0.0147     6300. 0.00325  Anabel                               
+TOTL  2326A 0.07900    2326. 0.20000  Adams                                
+C  2 157.6m 0.00856 1576000. 0.20000  Liu                                  
+O  1 63.17m 0.13647  631700. 0.10000  Liu                                  
+O  1 145.5m 0.00446 1455000. 0.200    Liu                                  
+TOTL  3727A 0.77609    3727. 0.200    Torres-Peimbert                      
+S II  4070A 0.06174    4070. 0.200    Torres-Peimbert                      
+S II  4078A 0.06174    4078. 0.200    Torres-Peimbert                      

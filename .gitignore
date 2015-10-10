@@ -1,0 +1,5 @@
+.directory
+.*checkpoint.ipynb
+*.gz
+*.pyc
+*files/*
