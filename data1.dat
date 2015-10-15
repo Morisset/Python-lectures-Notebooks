@@ -1,7 +1,3 @@
-# This file is used in a Notebook on numpy and matplotlib
-# N  x  y  I
-1  3  5  8.0
-2  5  7  10.0
-3  7  2  6.0
-4  9  -1 3.0
-5  11 1 12.0
+1   2.3  6   8 star
+2   3.5  7   9 galaxy
+3  -4.2  5   7 cluster
