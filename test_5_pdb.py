@@ -1,4 +1,4 @@
-import pdb
+import pdb # This is needed to use the debugger
 import numpy as np
 import os
 import urllib2
