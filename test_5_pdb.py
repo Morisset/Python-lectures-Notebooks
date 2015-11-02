@@ -171,3 +171,4 @@ class Stel_Spectrum(object):
 
 sp = Stel_Spectrum(T=100000, logg=6)
 print 'ending'
+print sp.filename

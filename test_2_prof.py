@@ -132,7 +132,8 @@ class Stel_Spectrum(object):
     
     def __getlogg(self): 
         return self.__logg
-    
+
+    @profile
     def __setlogg(self, value):
         try:
             self.__logg 
