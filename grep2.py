@@ -39,11 +39,15 @@ def grep(args):
         ff.close()
         n_lines = len(lines)
         count = 0
+        get_one = False
         for i, line in enumerate(lines):
+            re_res = re.search(args.pattern, line)
             if args.invert_match:
-                match = not re.search(args.pattern, line)
+                match = not re_res
+                if re_res:
+                    get_one = True
             else:
-                match = re.search(args.pattern, line)
+                match = re_res
             if match:
                 if args_before_context != 0:
                     res.append('--\n')
@@ -75,7 +79,11 @@ def grep(args):
         if args.count:
             res.append('{}:{}'.format(f, count))
         if args.files_with_matches and count > 0:
-            res.append(f)
+            if args.invert_match:
+                if not get_one:
+                    res.append(f)
+            else:
+                res.append(f)
     return res
     
 
@@ -107,4 +115,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
     to_print = grep(args)
     for line in to_print:
-        print line,
+        print line
