@@ -4,3 +4,7 @@
 *files/*
 **/.ipynb_checkpoints/
 *~
+
+dcumsum.so
+
+*.so
