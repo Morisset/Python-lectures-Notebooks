@@ -8,3 +8,5 @@
 dcumsum.so
 
 *.so
+
+*.html#
