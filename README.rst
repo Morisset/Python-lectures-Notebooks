@@ -110,6 +110,7 @@ F. `Usefull libraries <https://github.com/Morisset/Python-lectures-Notebooks/blo
   - urllib2
 
 G. `The astropy library <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Using_astropy.ipynb>`_
+  - 
 
 H. `Object Oriented programing <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/OOP.ipynb>`_
 
@@ -124,8 +125,10 @@ H. `Object Oriented programing <https://github.com/Morisset/Python-lectures-Note
 
 I. `Optimization <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Optimization.ipynb>`_
 
+  - 
+
 J. `Calling Fortran <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Calling%20Fortran.ipynb>`_
 
-K. `Sending requests to MySQL and receiving the result from python, using PyMySQL
- <Sending requests to MySQL and receiving the result from python, using PyMySQL
->`_
+  - 
+
+K. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Sending requests to MySQL and receiving the result from python, using PyMySQL>`_
