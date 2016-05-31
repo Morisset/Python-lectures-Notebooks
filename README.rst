@@ -8,7 +8,7 @@ Most of the lectures are on this blog: http://python-astro.blogspot.mx/
 
 The available lectures are the following:
 
-I. `Introduction to python <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/intro_Python.ipynb>`_
+I. `Introduction to python <Notebooks/intro_Python.ipynb>`_
 
   - Using python as a calculator
   - assignments
