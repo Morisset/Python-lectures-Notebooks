@@ -25,7 +25,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_
   - Scripting
   - Importing libraries
 
-2. `Introduction to Numpy <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/intro_numpy.ipynb>`_
+2. `Introduction to Numpy <Notebooks/intro_numpy.ipynb>`_
 
   - The Array class
   - create an array
@@ -44,7 +44,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_
   - structured arrays and record arrays
   - NaN other ANSI values.
 
-3. `Interacting with files <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Interact%20with%20files.ipynb>`_
+3. `Interacting with files <Notebooks/Interact%20with%20files.ipynb>`_
 
   - Reading a simple ASCII file
   - How to treat special rows (comments, header)
@@ -58,7 +58,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_
   - Pickle files (python format)
   - FITS files
 
-4. `How to make plots, images, 3D, etc, using Matplotlib <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/intro_Matplotlib.ipynb>`_
+4. `How to make plots, images, 3D, etc, using Matplotlib <Notebooks/intro_Matplotlib.ipynb>`_
 
   - Simple plot
   - Controlling colors and symbols
@@ -87,7 +87,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_
   - Access and clear the current figure and axe
   - What's happen when not in a Notebook? plt.show() and plt.ion() commands
 
-5.  `Introduction to Scipy <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/intro_Scipy.ipynb>`_
+5.  `Introduction to Scipy <Notebooks/intro_Scipy.ipynb>`_
 
   - Some useful methods
   - nanmean
@@ -98,7 +98,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_
   - data fitting
   - multivariate estimation
 
-6. `Usefull libraries <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Useful_libraries.ipynb>`_
+6. `Usefull libraries <Notebooks/Useful_libraries.ipynb>`_
 
   - time and datetime
   - timeit
@@ -109,9 +109,9 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_
   - re
   - urllib2
 
-7. `The astropy library <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Using_astropy.ipynb>`_
+7. `The astropy library <Notebooks/Using_astropy.ipynb>`_
 
-8. `Object Oriented programing <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/OOP.ipynb>`_
+8. `Object Oriented programing <Notebooks/OOP.ipynb>`_
 
   - use functions to do simple jobs
   - but use objects when things start to be more complex
@@ -122,8 +122,8 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_
   - use class inheritance
   - use attributes properties
 
-9. `Optimization <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Optimization.ipynb>`_
+9. `Optimization <Notebooks/Optimization.ipynb>`_
 
-10. `Calling Fortran <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Calling%20Fortran.ipynb>`_
+10. `Calling Fortran <Notebooks/Calling%20Fortran.ipynb>`_
 
-11. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Sending requests to MySQL and receiving the result from python, using PyMySQL>`_
+11. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Notebooks/Using_PyMySQL.ipynb>`_
