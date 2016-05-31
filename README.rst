@@ -8,7 +8,7 @@ Most of the lectures are on this blog: http://python-astro.blogspot.mx/
 
 The available lectures are the following:
 
-#A. `Introduction to python <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/intro_Python.ipynb>`_
+A. `Introduction to python <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/intro_Python.ipynb>`_
 
   - Using python as a calculator
   - assignments
@@ -25,7 +25,7 @@ The available lectures are the following:
   - Scripting
   - Importing libraries
 
-# `Introduction to Numpy <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/intro_numpy.ipynb>`_
+B. `Introduction to Numpy <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/intro_numpy.ipynb>`_
 
   - The Array class
   - create an array
@@ -44,6 +44,6 @@ The available lectures are the following:
   - structured arrays and record arrays
   - NaN other ANSI values.
 
-# `Interacting with files <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Interact%20with%20files.ipynb>`_
+C. `Interacting with files <https://github.com/Morisset/Python-lectures-Notebooks/blob/master/Notebooks/Interact%20with%20files.ipynb>`_
 
-# 
+D.
