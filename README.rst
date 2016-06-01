@@ -124,6 +124,6 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `(PDF version) <Note
 
 9. `Optimization <Notebooks/Optimization.ipynb>`_ `(PDF version) <Notebooks/Optimization.pdf>`_
 
-10. `Calling Fortran <Notebooks/Calling%20Fortran.ipynb>`_ `(PDF version) <>`_
+10. `Calling Fortran <Notebooks/Calling%20Fortran.ipynb>`_ `(PDF version) <Notebooks/Calling%20Fortran.pdf>`_
 
 11. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Notebooks/Using_PyMySQL.ipynb>`_ `(PDF version) <Notebooks/Using_PyMySQL.pdf>`_
