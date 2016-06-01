@@ -8,7 +8,7 @@ Most of the lectures are on this blog: http://python-astro.blogspot.mx/
 
 The available lectures are the following:
 
-I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `PDF version <Notebooks/intro_Python.pdf>`_
+I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `(PDF version) <Notebooks/intro_Python.pdf>`_
 
   - Using python as a calculator
   - assignments
@@ -25,7 +25,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `PDF version <Notebo
   - Scripting
   - Importing libraries
 
-2. `Introduction to Numpy <Notebooks/intro_numpy.ipynb>`_
+2. `Introduction to Numpy <Notebooks/intro_numpy.ipynb>`_ `(PDF version) <Notebooks/intro_numpy.pdf>`_
 
   - The Array class
   - create an array
@@ -44,7 +44,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `PDF version <Notebo
   - structured arrays and record arrays
   - NaN other ANSI values.
 
-3. `Interacting with files <Notebooks/Interact%20with%20files.ipynb>`_
+3. `Interacting with files <Notebooks/Interact%20with%20files.ipynb>`_ `(PDF version) <Notebooks/Interact%20with%20files.pdf>`_
 
   - Reading a simple ASCII file
   - How to treat special rows (comments, header)
@@ -58,7 +58,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `PDF version <Notebo
   - Pickle files (python format)
   - FITS files
 
-4. `How to make plots, images, 3D, etc, using Matplotlib <Notebooks/intro_Matplotlib.ipynb>`_
+4. `How to make plots, images, 3D, etc, using Matplotlib <Notebooks/intro_Matplotlib.ipynb>`_ `(PDF version) <Notebooks/intro_Matplotlib.pdf>`_
 
   - Simple plot
   - Controlling colors and symbols
@@ -87,7 +87,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `PDF version <Notebo
   - Access and clear the current figure and axe
   - What's happen when not in a Notebook? plt.show() and plt.ion() commands
 
-5.  `Introduction to Scipy <Notebooks/intro_Scipy.ipynb>`_
+5.  `Introduction to Scipy <Notebooks/intro_Scipy.ipynb>`_ `(PDF version) <Notebooks/intro_Scipy.pdf>`_
 
   - Some useful methods
   - nanmean
@@ -98,7 +98,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `PDF version <Notebo
   - data fitting
   - multivariate estimation
 
-6. `Usefull libraries <Notebooks/Useful_libraries.ipynb>`_
+6. `Usefull libraries <Notebooks/Useful_libraries.ipynb>`_ `(PDF version) <Notebooks/Useful_libraries.pdf>`_
 
   - time and datetime
   - timeit
@@ -109,9 +109,9 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `PDF version <Notebo
   - re
   - urllib2
 
-7. `The astropy library <Notebooks/Using_astropy.ipynb>`_
+7. `The astropy library <Notebooks/Using_astropy.ipynb>`_ `(PDF version) <Notebooks/Using_astropy.pdf>`_
 
-8. `Object Oriented programing <Notebooks/OOP.ipynb>`_
+8. `Object Oriented programing <Notebooks/OOP.ipynb>`_ `(PDF version) <Notebooks/OOP.pdf>`_
 
   - use functions to do simple jobs
   - but use objects when things start to be more complex
@@ -122,8 +122,8 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `PDF version <Notebo
   - use class inheritance
   - use attributes properties
 
-9. `Optimization <Notebooks/Optimization.ipynb>`_
+9. `Optimization <Notebooks/Optimization.ipynb>`_ `(PDF version) <Notebooks/Optimization.pdf>`_
 
-10. `Calling Fortran <Notebooks/Calling%20Fortran.ipynb>`_
+10. `Calling Fortran <Notebooks/Calling%20Fortran.ipynb>`_ `(PDF version) <>`_
 
-11. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Notebooks/Using_PyMySQL.ipynb>`_
+11. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Notebooks/Using_PyMySQL.ipynb>`_ `(PDF version) <Notebooks/Using_PyMySQL.pdf>`_
