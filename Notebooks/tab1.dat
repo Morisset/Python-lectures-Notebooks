@@ -1,4 +1,4 @@
-name    obs_date    mag_b  mag_v
+#name    obs_date    mag_b  mag_v
 M31     2012-01-02  17.0   17.5
 M31     2012-01-02  17.1   17.4
 M101    2012-01-02  15.1   13.5
