@@ -1,0 +1,23 @@
+name: pyneb
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - h5py
+  - pandas
+  - astropy
+  - pymysql
+  - subprocess
+  - re
+  - glob
+  - time
+  - datetime
+  - urllib2
+  - memory_profiler
+  - pstats
+  - math
+  - gzip
+  - pickle
+  - pip:
+     - atpy
