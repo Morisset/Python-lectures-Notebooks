@@ -2,9 +2,8 @@
 Python lectures Notebooks
 *************************
 
-This is the repository of my Python lectures done at Instituto de Astronomia - UNAM
-
-Most of the lectures are on this blog: http://python-astro.blogspot.mx/
+This is the repository of my Python lectures give at Instituto de
+Astronomia - UNAM since 2012
 
 The available lectures are the following:
 
