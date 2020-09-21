@@ -1,6 +1,0 @@
-# The following data are for test purpose
-N,    f,   x,   y, type
-1,   2.3,  6,   8, star
-2,   3000.5,   ,  9, galaxy
-3,  -4.2,  5,   7, cluster
-#4,  -10.5,  5,  7, test
