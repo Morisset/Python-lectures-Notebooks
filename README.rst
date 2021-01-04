@@ -126,3 +126,5 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `(PDF version) <Note
 10. `Calling Fortran <Notebooks/Calling%20Fortran.ipynb>`_ `(PDF version) <Notebooks/Calling%20Fortran.pdf>`_
 
 11. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Notebooks/Using_PyMySQL.ipynb>`_ `(PDF version) <Notebooks/Using_PyMySQL.pdf>`_
+
+12. `Using astroquery <Notebooks/Using_astroquery.ipynb>`_ `(PDF version) <Notebooks/Using_astroquery.pdf>`_
