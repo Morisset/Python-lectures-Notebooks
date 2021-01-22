@@ -2,8 +2,7 @@
 Python lectures Notebooks
 *************************
 
-This is the repository of my Python lectures give at Instituto de
-Astronomia - UNAM since 2012
+This is the repository of my Python lectures give at Instituto de Astronomia - UNAM since 2012
 
 The available lectures are the following:
 
@@ -110,6 +109,12 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `(PDF version) <Note
 
 7. `The astropy library <Notebooks/Using_astropy.ipynb>`_ `(PDF version) <Notebooks/Using_astropy.pdf>`_
 
+ - constants and units
+ - data table
+ - Downloading from CDS
+ - Coordinates
+ - Modeling
+   
 8. `Object Oriented programing <Notebooks/OOP.ipynb>`_ `(PDF version) <Notebooks/OOP.pdf>`_
 
   - use functions to do simple jobs
@@ -127,4 +132,19 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `(PDF version) <Note
 
 11. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Notebooks/Using_PyMySQL.ipynb>`_ `(PDF version) <Notebooks/Using_PyMySQL.pdf>`_
 
+  - See `MySQL.pdf <Notebooks/MySQL.pdf>`_
+  - connect to database
+  - using pandas to easy access
+    
 12. `Using astroquery <Notebooks/Using_astroquery.ipynb>`_ `(PDF version) <Notebooks/Using_astroquery.pdf>`_
+
+  - querying Vizier
+  - querying MAST
+  - catalogs
+
+13. Machine Learning
+
+  - See `Machine Learning.pdf <Notebooks/Machine%20Learning.pdf>`_
+  - One Notebook `comparing Artificial Neural Network to Polynomial fit <Notebooks/ANN.ipynb>`_
+  - Notebook from Miguel Angel Aragon lecture on `redshift determination <Notebooks/Redshift.ipynb>`_
+    
