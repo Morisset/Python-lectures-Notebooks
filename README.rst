@@ -130,7 +130,7 @@ I. `Introduction to python <Notebooks/intro_Python.ipynb>`_ `(PDF version) <Note
 
 10. `Calling Fortran <Notebooks/Calling%20Fortran.ipynb>`_ `(PDF version) <Notebooks/Calling%20Fortran.pdf>`_
 
-11. `Sending requests to MySQL and receiving the result from python, using PyMySQL <Notebooks/Using_alchemy.ipynb>`_ `(PDF version) <Notebooks/Using_SQLalchemy.pdf>`_
+11. `Sending requests to MySQL and receiving the result from python, using SQLalchemy <Notebooks/Using_alchemy.ipynb>`_ `(PDF version) <Notebooks/Using_SQLalchemy.pdf>`_
 
   - See `MySQL.pdf <Notebooks/MySQL.pdf>`_
   - connect to database
