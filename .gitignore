@@ -8,3 +8,10 @@
 *.html#
 **/.DS_Store
 **/Icon
+*.dat
+test*
+*.pickle
+*.pklz
+Fig1.*
+profile.*
+
