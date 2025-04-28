@@ -128,21 +128,19 @@ I. `Introduction to python <Lecture_Notebooks/intro_Python.ipynb>`_ `(PDF versio
 
 9. `Optimization <Lecture_Notebooks/Optimization.ipynb>`_ `(PDF version) <Lecture_Notebooks/Optimization.pdf>`_
 
-10. `Calling Fortran <Lecture_Notebooks/Calling%20Fortran.ipynb>`_ `(PDF version) <Lecture_Notebooks/Calling%20Fortran.pdf>`_
-
-11. `Sending requests to MySQL and receiving the result from python, using SQLalchemy <Lecture_Notebooks/Using_SQLalchemy.ipynb>`_ `(PDF version) <Lecture_Notebooks/Using_SQLalchemy.pdf>`_
+10. `Sending requests to MySQL and receiving the result from python, using SQLalchemy <Lecture_Notebooks/Using_SQLalchemy.ipynb>`_ `(PDF version) <Lecture_Notebooks/Using_SQLalchemy.pdf>`_
 
   - See `MySQL.pdf <Lecture_Notebooks/MySQL.pdf>`_
   - connect to database
   - using pandas to easy access
     
-12. `Using astroquery <Lecture_Notebooks/Using_astroquery.ipynb>`_ `(PDF version) <Lecture_Notebooks/Using_astroquery.pdf>`_
+11. `Using astroquery <Lecture_Notebooks/Using_astroquery.ipynb>`_ `(PDF version) <Lecture_Notebooks/Using_astroquery.pdf>`_
 
   - querying Vizier
   - querying MAST
   - catalogs
 
-13. Machine Learning
+12. Machine Learning
 
   - See `Machine Learning.pdf <Lecture_Notebooks/Machine%20Learning.pdf>`_
   - One Notebook `comparing Artificial Neural Network to Polynomial fit <Lecture_Notebooks/ANN.ipynb>`_
