@@ -144,12 +144,8 @@ I. `Introduction to python <Lecture_Notebooks/intro_Python.ipynb>`_ `(PDF versio
 
 13. Machine Learning
 
-  - See `Machine Learning.pdf <Lecture_
-Notebooks/Machine%20Learning.pdf>`_
-  - One Notebook `comparing Artificial Neural Network to Polynomial fit <Lecture_
-Notebooks/ANN.ipynb>`_
-  - Notebook from Miguel Angel Aragon lecture on `redshift determination <Lecture_
-Notebooks/Redshifts.ipynb>`_
-  - Notebook from Miguel Angel Aragon lecture on `Galaxy classification <Lecture_
-Notebooks/Galaxies_classification.ipynb>`_
+  - See `Machine Learning.pdf <Lecture_Notebooks/Machine%20Learning.pdf>`_
+  - One Notebook `comparing Artificial Neural Network to Polynomial fit <Lecture_Notebooks/ANN.ipynb>`_
+  - Notebook from Miguel Angel Aragon lecture on `redshift determination <Lecture_Notebooks/Redshifts.ipynb>`_
+  - Notebook from Miguel Angel Aragon lecture on `Galaxy classification <Lecture_Notebooks/Galaxies_classification.ipynb>`_
     
