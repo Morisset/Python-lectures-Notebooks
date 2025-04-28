@@ -132,8 +132,7 @@ I. `Introduction to python <Lecture_Notebooks/intro_Python.ipynb>`_ `(PDF versio
 
 11. `Sending requests to MySQL and receiving the result from python, using SQLalchemy <Lecture_Notebooks/Using_SQLalchemy.ipynb>`_ `(PDF version) <Lecture_Notebooks/Using_SQLalchemy.pdf>`_
 
-  - See `MySQL.pdf <Lecture_
-Notebooks/MySQL.pdf>`_
+  - See `MySQL.pdf <Lecture_Notebooks/MySQL.pdf>`_
   - connect to database
   - using pandas to easy access
     
