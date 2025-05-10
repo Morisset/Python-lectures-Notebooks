@@ -1,0 +1,22 @@
+name: Python_Lecture_ML
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - scipy
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - pip
+  - astroquery
+  - astropy
+  - pandas
+  - tensorflow
+  - keras
+  - ipython
+  - seaborn 
+  - sqlalchemy
+  - pymysql
+  - pip:
+#    - git+https://github.com/mfouesneau/tap
