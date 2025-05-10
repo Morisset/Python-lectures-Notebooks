@@ -4,9 +4,10 @@ Python lectures Lecture_Notebooks
 
 This is the repository of my Python lectures give at Instituto de Astronomia - UNAM since 2012
 
-A dedicated environment can be installed using conda:
+A dedicated environment can be installed using conda and the file `env_FH_Python_Lecture_ML.yml <Lecture_Notebooks/env_FH_Python_Lecture_ML.yml>`_
 
 ``conda env create -f=env_FH_Python_Lecture_ML.yml``
+
 ``conda activate Python_Lecture_ML``
 
 The available lectures are the following:
