@@ -19,5 +19,4 @@ dependencies:
   - sqlalchemy
   - pymysql
   - pip:
-#    - git+https://github.com/mfouesneau/tap
 #    - scalene
